@@ -1,5 +1,3 @@
-package tiposDatos;
-
 public class Ejemplo {
     static void main() {
         String nombre = "Santiago";
