@@ -8,7 +8,10 @@ public class Ejemplo {
         String ciudad = "Armenia";
         boolean tieneNovia = false;
         double estatura = 1.7;
+
+        //Función para imprimir
         System.out.println(nombre);
-        System.out.println(edad);
+        System.out.print(edad);
+
     }
 }
