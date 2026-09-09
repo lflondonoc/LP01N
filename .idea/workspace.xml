@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ce77ea-0827-46e2-920f-e26ec63a0aaf" name="Changes" comment="" />
+    <list default="true" id="39ce77ea-0827-46e2-920f-e26ec63a0aaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/src/unidadI/RepasoOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +42,9 @@
     "Application.Ejemplo2.executor": "Run",
     "Application.Ejemplo3.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.OperadoresLogicos.executor": "Run",
+    "Application.OperadoresRelacionales.executor": "Run",
+    "Application.RepasoOperadores.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -63,21 +71,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperadoresAritmeticos">
-    <configuration name="Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejemplo" />
-      <module name="LP01N" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejemplo2" />
-      <module name="LP01N" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RepasoOperadores">
     <configuration name="Ejemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejemplo3" />
       <module name="LP01N" />
@@ -92,12 +86,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresLogicos" />
+      <module name="LP01N" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresRelacionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresRelacionales" />
+      <module name="LP01N" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepasoOperadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepasoOperadores" />
+      <module name="LP01N" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepasoOperadores" />
+        <item itemvalue="Application.OperadoresLogicos" />
+        <item itemvalue="Application.OperadoresRelacionales" />
         <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.Ejemplo3" />
-        <item itemvalue="Application.Ejemplo2" />
-        <item itemvalue="Application.Ejemplo" />
       </list>
     </recent_temporary>
   </component>
