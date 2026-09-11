@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ce77ea-0827-46e2-920f-e26ec63a0aaf" name="Changes" comment="" />
+    <list default="true" id="39ce77ea-0827-46e2-920f-e26ec63a0aaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +41,9 @@
     "Application.Ejemplo.executor": "Run",
     "Application.Ejemplo2.executor": "Run",
     "Application.Ejemplo3.executor": "Run",
+    "Application.Jardineria.executor": "Run",
+    "Application.Jardineria2.executor": "Run",
+    "Application.Jardineria3.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
     "Application.OperadoresLogicos.executor": "Run",
     "Application.OperadoresRelacionales.executor": "Run",
@@ -65,17 +73,27 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.RepasoOperadores">
-    <configuration name="Ejemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejemplo3" />
+  <component name="RunManager" selected="Application.Jardineria3">
+    <configuration name="Jardineria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jardineria" />
       <module name="LP01N" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresAritmeticos" />
+    <configuration name="Jardineria2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jardineria2" />
+      <module name="LP01N" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jardineria3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jardineria3" />
       <module name="LP01N" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,13 +101,6 @@
     </configuration>
     <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperadoresLogicos" />
-      <module name="LP01N" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperadoresRelacionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresRelacionales" />
       <module name="LP01N" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jardineria3" />
+        <item itemvalue="Application.Jardineria" />
+        <item itemvalue="Application.Jardineria2" />
         <item itemvalue="Application.RepasoOperadores" />
         <item itemvalue="Application.OperadoresLogicos" />
-        <item itemvalue="Application.OperadoresRelacionales" />
-        <item itemvalue="Application.OperadoresAritmeticos" />
-        <item itemvalue="Application.Ejemplo3" />
       </list>
     </recent_temporary>
   </component>
