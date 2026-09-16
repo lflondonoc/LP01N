@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39ce77ea-0827-46e2-920f-e26ec63a0aaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/unidad1/src/unidadI/Technology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/Repositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/SumaNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unidad1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Ejemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Ejemplo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Ejemplo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresAritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresLogicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresRelacionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/RepasoOperadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Technology.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/unidad1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unidad1/unidad1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,42 +51,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ejemplo.executor": "Run",
-    "Application.Ejemplo2.executor": "Run",
-    "Application.Ejemplo3.executor": "Run",
-    "Application.Jardineria.executor": "Run",
-    "Application.Jardineria2.executor": "Run",
-    "Application.Jardineria3.executor": "Run",
-    "Application.OperadoresAritmeticos.executor": "Run",
-    "Application.OperadoresLogicos.executor": "Run",
-    "Application.OperadoresRelacionales.executor": "Run",
-    "Application.RepasoOperadores.executor": "Run",
-    "Application.Technology.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/luilondono/Desktop/Programación/LP2026-2/LP01N",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ejemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejemplo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jardineria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jardineria2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jardineria3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperadoresAritmeticos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperadoresLogicos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperadoresRelacionales.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RepasoOperadores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Technology.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/luilondono/Desktop/Programación/LP2026-2/LP01N&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unidad1" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -77,7 +96,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Technology">
+  <component name="RunManager" selected="Application.Jardineria">
     <configuration name="Jardineria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jardineria" />
       <module name="LP01N" />
@@ -106,18 +125,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Technology" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Technology" />
-      <module name="LP01N" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Technology" />
-        <item itemvalue="Application.Jardineria3" />
         <item itemvalue="Application.Jardineria" />
+        <item itemvalue="Application.Jardineria3" />
         <item itemvalue="Application.Jardineria2" />
         <item itemvalue="Application.RepasoOperadores" />
       </list>
@@ -147,5 +158,8 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LP01N$Jardineria.ic" NAME="Jardineria Coverage Results" MODIFIED="1789516790053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
