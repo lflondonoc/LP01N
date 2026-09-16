@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39ce77ea-0827-46e2-920f-e26ec63a0aaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/unidad1/Repositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unidad1/SumaNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/PracticaNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unidad1/PracticaTienda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unidad1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Ejemplo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Ejemplo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Ejemplo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Jardineria3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresAritmeticos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresLogicos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/OperadoresRelacionales.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/RepasoOperadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/src/unidadI/Technology.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1/unidad1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unidad1/unidad1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unidad1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
