@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Repositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/Ejemplo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/Ejemplo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/Ejemplo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/Jardineria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/Jardineria2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/Jardineria3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/OperadoresAritmeticos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/OperadoresLogicos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/OperadoresRelacionales.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/RepasoOperadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unidadI/Technology.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidad1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unidad1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaFunciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +28,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3JO7gTANpduAVD8C84O2VGCGsBF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +39,10 @@
   "keyToString": {
     "Application.Ejemplo3.executor": "Run",
     "Application.Funciones.executor": "Run",
+    "Application.PracticaFunciones.executor": "Run",
+    "Application.PracticaNotas.executor": "Run",
+    "Application.PracticaTienda.executor": "Run",
+    "Application.SumaNumeros.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -61,22 +52,38 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/luilondono/Desktop/Programación/LP2026-2/LP01N/unidad1",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumaNumeros">
-    <configuration name="Ejemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejemplo3" />
+  <component name="RunManager" selected="Application.PracticaFunciones">
+    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funciones" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Funciones" />
+    <configuration name="PracticaFunciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaFunciones" />
+      <module name="unidad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticaNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaNotas" />
+      <module name="unidad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticaTienda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaTienda" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,9 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticaFunciones" />
+        <item itemvalue="Application.PracticaTienda" />
+        <item itemvalue="Application.PracticaNotas" />
         <item itemvalue="Application.SumaNumeros" />
         <item itemvalue="Application.Funciones" />
-        <item itemvalue="Application.Ejemplo3" />
       </list>
     </recent_temporary>
   </component>
