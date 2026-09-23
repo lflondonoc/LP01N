@@ -27,11 +27,11 @@ public class Empresa {
     }
 
     public static String determinarBonificacion(double salarioAumento, double bonificacion){
-        String mensaje="El salario con el aumento del "+PORCENTAJE1+"% es de "+salarioAumento+", por tanto la bonificación es de ";
+        String mensaje="El salario con el aumento del "+(int)(PORCENTAJE1*100)+"% es de "+salarioAumento+", por tanto la bonificación es de ";
         if(salarioAumento>TOPE_SALARIO){
-            mensaje += PORCENTAJE1+"% y sería "+bonificacion+ " pesos.";
+            mensaje += (int)(PORCENTAJE1*100)+"% y sería "+bonificacion+ " pesos.";
         }else{
-            mensaje += PORCENTAJE2+"% y sería "+bonificacion+ " pesos.";
+            mensaje += (int)(PORCENTAJE2*100)+"% y sería "+bonificacion+ " pesos.";
         }
         return mensaje;
     }
