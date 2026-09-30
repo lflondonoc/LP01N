@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="" />
+    <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PromedioNotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/unidad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/unidad1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +46,7 @@
     "Application.PracticaFunciones.executor": "Run",
     "Application.PracticaNotas.executor": "Run",
     "Application.PracticaTienda.executor": "Run",
+    "Application.PromedioNotas.executor": "Run",
     "Application.SumaNumeros.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,7 +66,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Empresa">
+  <component name="RunManager" selected="Application.PromedioNotas">
     <configuration name="AreaHabitacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaHabitacion" />
       <module name="unidad1" />
@@ -90,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticaTienda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticaTienda" />
+    <configuration name="PromedioNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PromedioNotas" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PromedioNotas" />
         <item itemvalue="Application.Empresa" />
         <item itemvalue="Application.AreaHabitacion" />
         <item itemvalue="Application.Edad" />
         <item itemvalue="Application.PracticaFunciones" />
-        <item itemvalue="Application.PracticaTienda" />
       </list>
     </recent_temporary>
   </component>

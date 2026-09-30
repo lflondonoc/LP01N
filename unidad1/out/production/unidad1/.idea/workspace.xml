@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromedioNotas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AreaHabitacion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Edad.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ejemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Empresa.executor&quot;: &quot;Run&quot;,
     &quot;Application.Funciones.executor&quot;: &quot;Run&quot;,
     &quot;Application.PracticaFunciones.executor&quot;: &quot;Run&quot;,
     &quot;Application.PracticaNotas.executor&quot;: &quot;Run&quot;,
@@ -61,9 +64,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Edad">
+  <component name="RunManager" selected="Application.PromedioNotas">
+    <configuration name="AreaHabitacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaHabitacion" />
+      <module name="unidad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Edad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Edad" />
+      <module name="unidad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Empresa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Empresa" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,22 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticaNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticaNotas" />
-      <module name="unidad1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticaTienda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticaTienda" />
-      <module name="unidad1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumaNumeros" />
+    <configuration name="PromedioNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PromedioNotas" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PromedioNotas" />
+        <item itemvalue="Application.Empresa" />
+        <item itemvalue="Application.AreaHabitacion" />
         <item itemvalue="Application.Edad" />
         <item itemvalue="Application.PracticaFunciones" />
-        <item itemvalue="Application.PracticaTienda" />
-        <item itemvalue="Application.PracticaNotas" />
-        <item itemvalue="Application.SumaNumeros" />
       </list>
     </recent_temporary>
   </component>
