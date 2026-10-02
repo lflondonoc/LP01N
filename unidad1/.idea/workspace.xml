@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DecisionesSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiasSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RetroalimentacionParcial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RetroalimentacionParcialPunto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RetroalimentacionParcialPunto3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unidad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/unidad1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semaforo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semaforo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,9 @@
     "Application.PracticaNotas.executor": "Run",
     "Application.PracticaTienda.executor": "Run",
     "Application.PromedioNotas.executor": "Run",
+    "Application.RetroalimentacionParcial.executor": "Run",
+    "Application.RetroalimentacionParcialPunto2.executor": "Run",
+    "Application.Semaforo.executor": "Run",
     "Application.SumaNumeros.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,14 +73,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DiasSemana">
-    <configuration name="AreaHabitacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaHabitacion" />
-      <module name="unidad1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RetroalimentacionParcialPunto2">
     <configuration name="DecisionesSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecisionesSwitch" />
       <module name="unidad1" />
@@ -92,15 +88,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Empresa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Empresa" />
+    <configuration name="RetroalimentacionParcial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RetroalimentacionParcial" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PromedioNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PromedioNotas" />
+    <configuration name="RetroalimentacionParcialPunto2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RetroalimentacionParcialPunto2" />
+      <module name="unidad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Semaforo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semaforo" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RetroalimentacionParcialPunto2" />
+        <item itemvalue="Application.RetroalimentacionParcial" />
+        <item itemvalue="Application.Semaforo" />
         <item itemvalue="Application.DiasSemana" />
         <item itemvalue="Application.DecisionesSwitch" />
-        <item itemvalue="Application.PromedioNotas" />
-        <item itemvalue="Application.Empresa" />
-        <item itemvalue="Application.AreaHabitacion" />
       </list>
     </recent_temporary>
   </component>
