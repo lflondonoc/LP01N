@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MiniCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParqueDiversiones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParqueDiversiones2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MenuAlmuerzo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supletorio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParqueDiversiones2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParqueDiversiones2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Repositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unidad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/unidad1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
     "Application.Ejemplo3.executor": "Run",
     "Application.Empresa.executor": "Run",
     "Application.Funciones.executor": "Run",
+    "Application.MenuAlmuerzo.executor": "Run",
     "Application.MiniCalculadora.executor": "Run",
     "Application.ParqueDiversiones.executor": "Run",
     "Application.ParqueDiversiones2.executor": "Run",
@@ -60,6 +59,7 @@
     "Application.RetroalimentacionParcialPunto2.executor": "Run",
     "Application.Semaforo.executor": "Run",
     "Application.SumaNumeros.executor": "Run",
+    "Application.Supletorio.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,7 +83,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ParqueDiversiones2">
+  <component name="RunManager" selected="Application.MenuAlmuerzo">
+    <configuration name="MenuAlmuerzo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenuAlmuerzo" />
+      <module name="unidad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MiniCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MiniCalculadora" />
       <module name="unidad1" />
@@ -105,15 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RetroalimentacionParcial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RetroalimentacionParcial" />
-      <module name="unidad1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RetroalimentacionParcialPunto2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RetroalimentacionParcialPunto2" />
+    <configuration name="Supletorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Supletorio" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuAlmuerzo" />
+        <item itemvalue="Application.Supletorio" />
         <item itemvalue="Application.ParqueDiversiones2" />
         <item itemvalue="Application.ParqueDiversiones" />
         <item itemvalue="Application.MiniCalculadora" />
-        <item itemvalue="Application.RetroalimentacionParcialPunto2" />
-        <item itemvalue="Application.RetroalimentacionParcial" />
       </list>
     </recent_temporary>
   </component>

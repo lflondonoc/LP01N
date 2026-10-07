@@ -3,8 +3,8 @@ public class ParqueDiversiones2 {
         Repositorio.mostrarMensaje("======BIENVENIDOS A LA ATRACCION======");
         int edad= Repositorio.ingresarEntero("Ingrese su edad: ");
         double estatura=Repositorio.ingresarDecimal("Ingrese su estatura: ");
-        String acceso= verificarAcceso(edad, estatura);
-        Repositorio.mostrarMensaje(acceso);
+        String mensaje= verificarAcceso(edad, estatura);
+        Repositorio.mostrarMensaje(mensaje);
     }
     public static String verificarAcceso(int edad, double estatura){
         String mensaje="";
