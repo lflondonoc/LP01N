@@ -23,6 +23,14 @@ public class Repositorio {
         String texto= sc.nextLine();
         return texto;
     }
+    //Función para ingresa un caracter
+    public static char ingresarCaracter(String mensaje){
+        Scanner sc= new Scanner(System.in);
+        System.out.print(mensaje);
+        char caracter= sc.nextLine().charAt(0);
+        return caracter;
+    }
+
     //Función para ingresar valor booleano
     public static boolean ingresarBooleano(String mensaje){
         Scanner sc= new Scanner(System.in);

@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="" />
+    <list default="true" id="99913ffd-a5ad-4a91-8164-77aa8ae1c601" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MiniCalculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repositorio.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +40,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.AreaHabitacion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecisionesSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiasSemana.executor&quot;: &quot;Run&quot;,
     &quot;Application.Edad.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ejemplo3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Empresa.executor&quot;: &quot;Run&quot;,
@@ -43,6 +50,9 @@
     &quot;Application.PracticaNotas.executor&quot;: &quot;Run&quot;,
     &quot;Application.PracticaTienda.executor&quot;: &quot;Run&quot;,
     &quot;Application.PromedioNotas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RetroalimentacionParcial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RetroalimentacionParcialPunto2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Semaforo.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumaNumeros.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -62,37 +72,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DecisionesSwitch">
-    <configuration name="AreaHabitacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaHabitacion" />
+  <component name="RunManager" selected="Application.MiniCalculadora">
+    <configuration name="DiasSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiasSemana" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecisionesSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecisionesSwitch" />
+    <configuration name="MiniCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniCalculadora" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Edad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Edad" />
+    <configuration name="RetroalimentacionParcial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RetroalimentacionParcial" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Empresa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Empresa" />
+    <configuration name="RetroalimentacionParcialPunto2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RetroalimentacionParcialPunto2" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PromedioNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PromedioNotas" />
+    <configuration name="Semaforo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semaforo" />
       <module name="unidad1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecisionesSwitch" />
-        <item itemvalue="Application.PromedioNotas" />
-        <item itemvalue="Application.Empresa" />
-        <item itemvalue="Application.AreaHabitacion" />
-        <item itemvalue="Application.Edad" />
+        <item itemvalue="Application.MiniCalculadora" />
+        <item itemvalue="Application.RetroalimentacionParcialPunto2" />
+        <item itemvalue="Application.RetroalimentacionParcial" />
+        <item itemvalue="Application.Semaforo" />
+        <item itemvalue="Application.DiasSemana" />
       </list>
     </recent_temporary>
   </component>
