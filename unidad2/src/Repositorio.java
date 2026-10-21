@@ -44,5 +44,14 @@ public class Repositorio {
         System.out.println(mensaje);
     }
 
+    //Función para determinar se una letra es vocal
+    public static boolean determinarVocal(char letra){
+        boolean esVocal=false;
+        if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u') {
+            esVocal=true;
+        }
+        return esVocal;
+    }
+
 }
 
