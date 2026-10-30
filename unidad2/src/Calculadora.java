@@ -34,10 +34,20 @@ public class Calculadora {
                     System.out.println("La suma de "+num1+" + "+num2+" = "+suma);
                     break;
                 case 2:
+                    int resta= num1-num2;
+                    System.out.println("La resta de "+num1+" - "+num2+" = "+resta);
                     break;
                 case 3:
+                    int multiplicacion= num1*num2;
+                    System.out.println("La multiplicación de "+num1+" * "+num2+" = "+multiplicacion);
                     break;
                 case 4:
+                    if(num2<=0){
+                        System.out.println("Error, división no válida.");
+                    }else{
+                        int division= num1/num2;
+                        System.out.println("La división de "+num1+" / "+num2+" = "+division);
+                    }
                     break;
                 case 5:
                     System.out.println("Saliendo del programa.....");
