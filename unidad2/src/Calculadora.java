@@ -7,6 +7,8 @@ public class Calculadora {
     public static void mostrarMenuCalculadora(){
         Scanner sc= new Scanner(System.in);
         int opcion=0;
+        int num1=0;
+        int num2=0;
 
         do{
             System.out.println("===CALCULADORA===");
@@ -19,12 +21,15 @@ public class Calculadora {
             System.out.println("Elija una opción: ");
             opcion= sc.nextInt();
 
+            if(opcion>=1 & opcion<=4){
+                System.out.print("Ingrese el primer número: ");
+                num1= sc.nextInt();
+                System.out.print("Ingrese el segundo número: ");
+                num2= sc.nextInt();
+            }
+
             switch (opcion){
                 case 1:
-                    System.out.print("Ingrese el primer número: ");
-                    int num1= sc.nextInt();
-                    System.out.print("Ingrese el segundo número: ");
-                    int num2= sc.nextInt();
                     int suma= num1+num2;
                     System.out.println("La suma de "+num1+" + "+num2+" = "+suma);
                     break;
